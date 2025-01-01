@@ -9,10 +9,10 @@
 > \- ABIGAIL ADAMS
 
 ### 개설 강좌
-| 개설학기 | 강의 제목 | 분류 | 수업계획서 |
+| 개설학기 | 강의 제목 | 분류 | 수업자료 |
 | :-----: | :-----------: | :---: | :---: |
-| 2025-1 | 강화학습 | 전공 | TBD |
-| 2025-1 | 엔지니어를 위한 인문학 | 교양 | TBD |
+| 2025-1 | [강화학습](https://github.com/Paik-Gio-University/2025.Spring_Reinforcement-Learning) | 전공 | TBD |
+| 2025-1 | [공학자를 위한 인문학](https://github.com/Paik-Gio-University/2025.Spring_Liberal-Arts-for-Engineers) | 교양 | [EBS 위대한 수업](https://www.kmooc.kr/view/course/refine/ebs) |
 
 ### 소개의 말
 - 백지오종합대학(`백종대`)은 **자기주도적인 온라인 학습(MOOC)에 기반한 유사 학위 과정**입니다.
